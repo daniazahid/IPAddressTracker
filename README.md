@@ -1,8 +1,6 @@
 # Frontend Hiring Test - IP Tracker Application (Intermediate)
 
-This test is a part of the hiring process at TuringTech for the Frontend Engineer position. It should take you between 3 to 5 hours, depending on your experience, to implement the minimal version. But we thought about a few bonuses, so feel free to spend some time on them if you want.
-
-*Feel free to apply! Drop us a line with your LinkedIn/GitHub/Twitter at hr@turingtechnologies.org.*
+This test is a part of the hiring process at TuringTech for the Frontend Engineer position. 
 
 ## Brief
 
@@ -54,7 +52,3 @@ The designs were created to the following widths:
 - Deploy your app on Heroku or Netlify
 
 
-## Code Submit
-Please organize, design, test and document your code as if it were going into production and send us a pull request. We will review it and get back to you in order to talk about your code! 
-
-All the best and happy coding.
